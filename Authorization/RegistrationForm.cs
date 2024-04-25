@@ -1,4 +1,6 @@
-﻿namespace Authorization
+﻿using System.Diagnostics;
+
+namespace Authorization
 {
     public partial class RegistrationForm : Form
     {
